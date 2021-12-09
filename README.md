@@ -41,7 +41,7 @@ Docker Pull Command :   `docker pull tusharbedse/flaskapp`
 
 # Prerequisites
 
-You will need [Python3 installed](https://www.python.org/downloads/) on your local machine.
+You will need (Python=3.8)[Python3 installed](https://www.python.org/downloads/) on your local machine.
 
 
 # Built With
