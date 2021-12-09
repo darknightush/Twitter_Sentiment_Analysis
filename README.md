@@ -53,7 +53,7 @@ You will need [Python3 installed](https://www.python.org/downloads/) on your loc
 
 # Interface Sample
 
-![image](https://raw.githubusercontent.com/darknightush/Sentiment_Analysis/master/static/Screenshot.PNG)
+![image](https://raw.githubusercontent.com/TusharBedse/Sentiment_Analysis/master/static/Screenshot.PNG)
 
  
 
